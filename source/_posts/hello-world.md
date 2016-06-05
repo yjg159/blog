@@ -2,7 +2,8 @@
 title: Hello World
 date: 2016/5/31 20:20:20
 tags: 
-- article
+- hello world
+- markdown
 categories: 
 - common
 
