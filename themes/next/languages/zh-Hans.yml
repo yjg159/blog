@@ -36,7 +36,6 @@ footer:
   powered: "powered by %s"
   theme: theme
 
-
 counter:
   tag_cloud:
     zero: 暂无标签

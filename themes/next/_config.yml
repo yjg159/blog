@@ -73,19 +73,19 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host:
+  host: fonts.useso.com
 
   # Global font settings used on <body> element.
   global:
     # external: true will load this font family from host.
     external: true
-    family: Lato
+    family: Monda
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
     external: true
-    family:
+    family: Roboto Slab
 
   # Font settings for posts
   # Fallback to `global` font settings.
@@ -98,13 +98,13 @@ font:
   # The `size` option use `px` as unit
   logo:
     external: true
-    family:
-    size:
+    family: Lobster Two
+    size: 24
 
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: PT Mono
 
 
 
@@ -117,8 +117,12 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+#LinkLabel: Link
+  github: https://github.com/yjg159
+  twitter: https://twitter.com/your-user-name
+  weibo: http://www.weibo.com/u/2850579221
+
 
 
 # Social Links Icons
@@ -130,9 +134,9 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  github: github
+  twitter: twitter
+  weibo: weibo
 
 
 # Sidebar Avatar
@@ -397,3 +401,9 @@ state:
   pages: pages
   tags: tags
   categories: categories
+
+
+# 友情链接
+links_title: Links
+links:
+  FancyBian: http://fancybian.github.io

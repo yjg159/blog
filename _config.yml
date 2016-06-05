@@ -84,9 +84,9 @@ duoshuo_share: true
 
 # Social links
 social:
-  github: https://github.com/your-user-name
+  github: https://github.com/yjg159
   twitter: https://twitter.com/your-user-name
-  weibo: http://weibo.com/your-user-name
+  weibo: http://www.weibo.com/u/2850579221
 
 # Social icons
 social_icons:
@@ -94,7 +94,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-  Coding: heart
+
 
 #文章显示设置
 index_generator:

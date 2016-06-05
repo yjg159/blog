@@ -7,39 +7,36 @@ categories:
 - common
 
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+-------------------
+## Hello World !
+-------------------
+你好，世界！
 
-### Create a new post
+很明显，这不是我第一次用它，当然也不是最后一次，每当我们学习一种新的语言或者是新的技术，我我们最喜欢的就是
+用“hello world”来测试我们是否成功。
 
-``` bash
-$ hexo new "My New Post"
+显然，这篇博客就充当了测试的功能，同时也宣告了，这个博客，诞生了。
+
+<!-- more -->
+> 吐槽：果然，markdown对于空格或者tab键缩进的支持不够,空格几乎没有效果，然而tab缩进又变成了下面这个样式：
+
+    这里是tab缩进的样式
+
+> 这里继续，为了和上面对称。：） 也是够无聊的。
+
+解决方法：
+
+    1.把输入法由半角改为全角。 两次空格之后就能够有两个汉字的缩进。
+    2.在开头的时候，先输入这个，然后紧跟着输入文本即可。分号也不要掉。
+    &#160; &#160; &#160; &#160;
+
+看，新技能get!
+
+废话说完了，开启新世界。
+
+``` java
+System.out.println("Hello New World!");
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-<!--more-->
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+你好，新世界！
