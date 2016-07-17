@@ -7,7 +7,7 @@ categories:
 - 前端
 ---
 ### 本文介绍的是JavaScript中的比较运算符使用过程中我们需要注意的地方
-<!-- more -->
+
 当我们队Number做比较时，我们可以通过比较运算符得到一个布尔值：
 
 ```javascript
@@ -15,7 +15,7 @@ categories:
 9 >= 3; //true
 5 == 5; //true	
 ```
-
+<!-- more -->
 实际上，JavaScript允许对任意数据类型做比较：
 
 ```javascript
